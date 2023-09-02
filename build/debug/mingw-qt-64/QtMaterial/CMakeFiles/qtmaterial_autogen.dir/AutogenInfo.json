@@ -1,12 +1,12 @@
 {
-	"BUILD_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen",
-	"CMAKE_BINARY_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64",
-	"CMAKE_CURRENT_BINARY_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial",
-	"CMAKE_CURRENT_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial",
+	"BUILD_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen",
+	"CMAKE_BINARY_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial",
 	"CMAKE_EXECUTABLE" : "D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/CMakeLists.txt",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/CMakeLists.txt",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
@@ -48,467 +48,467 @@
 		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake",
 		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake",
 		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/BasicConfigVersion-SameMajorVersion.cmake.in",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/resources.qrc"
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/resources.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant",
+	"CMAKE_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialcheckable.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable_internal.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialcheckable_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable_p.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialcheckable_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialoverlaywidget.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialoverlaywidget.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialoverlaywidget.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialripple.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialripple.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialripple.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialrippleoverlay.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialrippleoverlay.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialrippleoverlay.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialstatetransition.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialstatetransition.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialstatetransition.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialstatetransitionevent.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialstatetransitionevent.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialstatetransitionevent.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialstyle.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialstyle.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialstyle.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialstyle_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialstyle_p.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialstyle_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialtheme.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialtheme.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialtheme.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialtheme_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialtheme_p.h",
 			"Mu",
 			"ZJOKMXDKB7/moc_qtmaterialtheme_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialappbar.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialappbar.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialappbar.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialappbar_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialappbar_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialappbar_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialautocomplete.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialautocomplete_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialautocomplete_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialavatar.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialavatar.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialavatar.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialavatar_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialavatar_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialavatar_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialbadge.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialbadge.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialbadge.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialbadge_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialbadge_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialbadge_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcheckbox.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcheckbox.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialcheckbox.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcheckbox_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcheckbox_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialcheckbox_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialcircularprogress.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialcircularprogress_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialcircularprogress_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdialog.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdialog.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialdialog.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdialog_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdialog_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialdialog_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdialog_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdialog_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialdialog_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdrawer.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdrawer.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialdrawer.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdrawer_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdrawer_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialdrawer_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdrawer_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdrawer_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialdrawer_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialfab.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialfab.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialfab.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialfab_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialfab_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialfab_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialflatbutton.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialflatbutton_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialflatbutton_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialiconbutton.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialiconbutton.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialiconbutton.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialiconbutton_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialiconbutton_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialiconbutton_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmateriallist.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmateriallist.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmateriallist.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmateriallist_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmateriallist_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmateriallist_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmateriallistitem.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmateriallistitem.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmateriallistitem.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmateriallistitem_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmateriallistitem_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmateriallistitem_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialmenu.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialmenu.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialmenu.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialmenu_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialmenu_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialmenu_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialmenu_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialmenu_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialmenu_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialpaper.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialpaper.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialpaper.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialpaper_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialpaper_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialpaper_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialprogress.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialprogress.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialprogress.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialprogress_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialprogress_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialprogress_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialprogress_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialprogress_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialprogress_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialradiobutton.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialradiobutton.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialradiobutton.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialradiobutton_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialradiobutton_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialradiobutton_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialraisedbutton.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialraisedbutton.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialraisedbutton.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialraisedbutton_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialraisedbutton_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialraisedbutton_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialscrollbar.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialscrollbar_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialscrollbar_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialslider.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialslider.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialslider.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialslider_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialslider_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialslider_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialslider_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialslider_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialslider_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialsnackbar.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialsnackbar_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialsnackbar_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtable.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtable.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtable.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtable_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtable_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtable_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtabs.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtabs.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtabs.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtabs_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtabs_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtabs_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtabs_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtabs_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtabs_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtextfield.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtextfield.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtextfield.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtextfield_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtextfield_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtextfield_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtextfield_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtextfield_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtextfield_p.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtoggle.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtoggle.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtoggle.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtoggle_internal.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtoggle_internal.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtoggle_internal.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtoggle_p.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtoggle_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qtmaterialtoggle_p.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen/include",
-	"MOC_COMPILATION_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QMATERIAL_SHARED_EXPORT",
@@ -526,8 +526,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_64/include",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_64/mkspecs/win32-g++",
@@ -552,246 +552,246 @@
 		"-c",
 		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/qtmaterial_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/CMakeFiles/qtmaterial_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/CMakeFiles/qtmaterial_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 14,
-	"SETTINGS_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/CMakeFiles/qtmaterial_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64/QtMaterial/CMakeFiles/qtmaterial_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialcheckable_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialoverlaywidget.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialoverlaywidget.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialripple.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialripple.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialrippleoverlay.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialrippleoverlay.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialstatetransition.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialstatetransition.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialstyle.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialstyle.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/lib/qtmaterialtheme.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/lib/qtmaterialtheme.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialappbar.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialappbar.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialautocomplete_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialavatar.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialavatar.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialbadge.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialbadge.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcheckbox.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcheckbox.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialcircularprogress_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdialog.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdialog.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdialog_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdialog_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdrawer.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdrawer.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialdrawer_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialdrawer_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialfab.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialfab.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialflatbutton_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialiconbutton.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialiconbutton.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmateriallist.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmateriallist.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmateriallistitem.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmateriallistitem.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialmenu.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialmenu.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialmenu_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialmenu_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialpaper.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialpaper.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialprogress.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialprogress.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialprogress_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialprogress_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialradiobutton.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialradiobutton.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialraisedbutton.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialraisedbutton.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialscrollbar_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialslider.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialslider.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialslider_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialslider_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialsnackbar_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtable.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtable.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtabs.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtabs.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtabs_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtabs_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtextfield.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtextfield.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtextfield_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtextfield_internal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtoggle.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtoggle.cpp",
 			"Mu",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial/qtmaterialtoggle_internal.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial/qtmaterialtoggle_internal.cpp",
 			"Mu",
 			null
 		]

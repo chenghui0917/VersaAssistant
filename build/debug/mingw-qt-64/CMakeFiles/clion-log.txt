@@ -1,4 +1,10 @@
-"D:\SoftwareTools\Jetbrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S "E:\projects\VersaDebug Assistant\Cmake\VersaDebugAssistant" -B "E:\projects\VersaDebug Assistant\Cmake\VersaDebugAssistant\build\debug\mingw-qt-64"
+"D:\SoftwareTools\Jetbrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S "E:\projects\VersaDebug Assistant\VersaDebugAssistant" -B "E:\projects\VersaDebug Assistant\VersaDebugAssistant\build\debug\mingw-qt-64"
+-- The CXX compiler identification is GNU 7.3.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-64
+-- Build files have been written to: E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-64

@@ -1,4 +1,4 @@
-# Install script for directory: E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project
+# Install script for directory: E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

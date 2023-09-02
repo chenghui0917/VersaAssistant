@@ -80,7 +80,7 @@ rule CXX_EXECUTABLE_LINKER__VersaAssistant-3.2e8.2e1_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\SoftwareTools\Jetbrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"E:\projects\VersaDebug Assistant\Cmake\VersaDebugAssistant" -B"E:\projects\VersaDebug Assistant\Cmake\VersaDebugAssistant\build\release\mingw-qt-32"
+  command = "D:\SoftwareTools\Jetbrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"E:\projects\VersaDebug Assistant\VersaDebugAssistant" -B"E:\projects\VersaDebug Assistant\VersaDebugAssistant\build\release\mingw-qt-32"
   description = Re-running CMake...
   generator = 1
 

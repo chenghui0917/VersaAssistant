@@ -1,12 +1,12 @@
 {
-	"BUILD_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen",
-	"CMAKE_BINARY_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32",
-	"CMAKE_CURRENT_BINARY_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project",
-	"CMAKE_CURRENT_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project",
+	"BUILD_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen",
+	"CMAKE_BINARY_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project",
 	"CMAKE_EXECUTABLE" : "D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project/CMakeLists.txt",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project/CMakeLists.txt",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5Config.cmake",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
@@ -75,30 +75,30 @@
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5AxContainer/Qt5AxContainerConfig.cmake",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5AxBase/Qt5AxBaseConfigVersion.cmake",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5AxBase/Qt5AxBaseConfig.cmake",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/icon/IconPark.qrc",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/icon/MingCute.qrc"
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/icon/IconPark.qrc",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/icon/MingCute.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant",
+	"CMAKE_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project/imagesvgload.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project/imagesvgload.h",
 			"MU",
 			"EWIEGA46WW/moc_imagesvgload.cpp",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project/versawidge.h",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project/versawidge.h",
 			"MU",
 			"EWIEGA46WW/moc_versawidge.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen/include",
-	"MOC_COMPILATION_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_AXBASE_LIB",
@@ -121,11 +121,11 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking",
-		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtMaterial",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtAdvancedDocking",
+		"E:/projects/VersaDebug Assistant/VersaDebugAssistant/QtMaterial",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/include",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtCore",
 		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/mkspecs/win32-g++",
@@ -156,31 +156,31 @@
 		"-c",
 		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project/VersaAssistant-3.8.1_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project/CMakeFiles/VersaAssistant-3.8.1_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project/CMakeFiles/VersaAssistant-3.8.1_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 14,
-	"SETTINGS_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/Project/CMakeFiles/VersaAssistant-3.8.1_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "E:/projects/VersaDebug Assistant/VersaDebugAssistant/build/debug/mingw-qt-32/Project/CMakeFiles/VersaAssistant-3.8.1_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project/imagesvgload.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project/imagesvgload.cpp",
 			"MU",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project/main.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/Project/versawidge.cpp",
+			"E:/projects/VersaDebug Assistant/VersaDebugAssistant/Project/versawidge.cpp",
 			"MU",
 			null
 		]

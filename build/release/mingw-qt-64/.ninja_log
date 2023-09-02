@@ -1,7 +1,7 @@
 # ninja log v5
 4848	8096	7153491833724739	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterial_autogen/mocs_compilation.cpp.obj	241deccf2f313b5a
 6338	7544	7153491828256292	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialstatetransition.cpp.obj	27dd050d4a1b7a74
-2	2429	7153692237765964	build.ninja	1617a9032f2a11ed
+2	2429	7153743574782555	build.ninja	1617a9032f2a11ed
 1600	4848	7153491801291275	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/qtadvanceddocking_autogen/mocs_compilation.cpp.obj	4fd9d31bd29e0fd0
 23	66	0	QtMaterial/CMakeFiles/qtmaterial_autogen	2fa8e557e52f4357
 3320	5184	7153491804643828	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtabs.cpp.obj	c9372ca49d193308
@@ -14,13 +14,11 @@
 29	68	0	QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen	3a4960c441941640
 1594	4146	7153491794222557	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/AutoHideTab.cpp.obj	16d1beaaa5a83694
 29	68	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtAdvancedDocking/qtadvanceddocking_autogen/mocs_compilation.cpp	3a4960c441941640
-29	68	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen	3a4960c441941640
 1605	4233	7153491795075816	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/AutoHideDockContainer.cpp.obj	1599da4952c387f5
 1518	1594	7153491768727589	QtAdvancedDocking/qtadvanceddocking_autogen/EWIEGA46WW/qrc_ads.cpp	711eeac5b308d5c9
 8336	10473	7153491857437099	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialfab.cpp.obj	7fedc46b85bb18ef
 23	66	0	QtMaterial/qtmaterial_autogen/mocs_compilation.cpp	2fa8e557e52f4357
 1626	4131	7153491794127317	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockAreaTabBar.cpp.obj	43132b8508f66f66
-23	66	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtMaterial/CMakeFiles/qtmaterial_autogen	2fa8e557e52f4357
 6990	8892	7153491841704501	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialavatar.cpp.obj	7b3ff356dc9c48a7
 23	66	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtMaterial/qtmaterial_autogen/mocs_compilation.cpp	2fa8e557e52f4357
 2904	3320	7153491785943719	QtMaterial/qtmaterial_autogen/EWIEGA46WW/qrc_resources.cpp	7c45dd6cf8bcef37
@@ -94,7 +92,6 @@
 16068	16955	7153491922293174	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_MingCute.cpp	5dec8dc2da9adc30
 68	406	0	Project/CMakeFiles/VersaAssistant-3.8.1_autogen	485080c498e66974
 68	406	0	Project/VersaAssistant-3.8.1_autogen/mocs_compilation.cpp	485080c498e66974
-68	406	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/CMakeFiles/VersaAssistant-3.8.1_autogen	485080c498e66974
 68	406	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/VersaAssistant-3.8.1_autogen/mocs_compilation.cpp	485080c498e66974
 16061	16531	7153491918061637	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_IconPark.cpp	e5d15eeb0deec914
 16068	16955	7153491922293174	Project/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_MingCute.cpp	5dec8dc2da9adc30
