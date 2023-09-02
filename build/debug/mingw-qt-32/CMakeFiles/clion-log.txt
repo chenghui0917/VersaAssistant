@@ -1,0 +1,4 @@
+"D:\SoftwareTools\Jetbrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S "E:\projects\VersaDebug Assistant\Cmake\VersaDebugAssistant" -B "E:\projects\VersaDebug Assistant\Cmake\VersaDebugAssistant\build\debug\mingw-qt-32"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32

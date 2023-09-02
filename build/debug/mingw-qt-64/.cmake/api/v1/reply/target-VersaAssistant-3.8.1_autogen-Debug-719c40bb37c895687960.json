@@ -1,0 +1,69 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Project/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "qtmaterial::@dad88a13932beb17c5ce"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qtadvanceddocking::@0830d1ee9bc51830e605"
+		}
+	],
+	"id" : "VersaAssistant-3.8.1_autogen::@f0d2a6f44114b7dd8962",
+	"isGeneratorProvided" : true,
+	"name" : "VersaAssistant-3.8.1_autogen",
+	"paths" : 
+	{
+		"build" : "Project",
+		"source" : "Project"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/debug/mingw-qt-64/Project/CMakeFiles/VersaAssistant-3.8.1_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/debug/mingw-qt-64/Project/CMakeFiles/VersaAssistant-3.8.1_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

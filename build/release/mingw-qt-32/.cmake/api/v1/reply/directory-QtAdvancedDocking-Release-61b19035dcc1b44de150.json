@@ -1,0 +1,152 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"QtAdvancedDocking/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 110,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 122,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 130,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 135,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 138,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "headers",
+			"destination" : "include/qtadvanceddocking",
+			"paths" : 
+			[
+				"QtAdvancedDocking/AutoHideDockContainer.h",
+				"QtAdvancedDocking/AutoHideSideBar.h",
+				"QtAdvancedDocking/AutoHideTab.h",
+				"QtAdvancedDocking/DockAreaTabBar.h",
+				"QtAdvancedDocking/DockAreaTitleBar.h",
+				"QtAdvancedDocking/DockAreaTitleBar_p.h",
+				"QtAdvancedDocking/DockAreaWidget.h",
+				"QtAdvancedDocking/DockComponentsFactory.h",
+				"QtAdvancedDocking/DockContainerWidget.h",
+				"QtAdvancedDocking/DockFocusController.h",
+				"QtAdvancedDocking/DockManager.h",
+				"QtAdvancedDocking/DockOverlay.h",
+				"QtAdvancedDocking/DockSplitter.h",
+				"QtAdvancedDocking/DockWidget.h",
+				"QtAdvancedDocking/DockWidgetTab.h",
+				"QtAdvancedDocking/DockingStateReader.h",
+				"QtAdvancedDocking/ElidingLabel.h",
+				"QtAdvancedDocking/FloatingDockContainer.h",
+				"QtAdvancedDocking/FloatingDragPreview.h",
+				"QtAdvancedDocking/IconProvider.h",
+				"QtAdvancedDocking/PushButton.h",
+				"QtAdvancedDocking/ResizeHandle.h",
+				"QtAdvancedDocking/ads_globals.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"x86/lib/libqtadvanceddocking.dll.a"
+			],
+			"targetId" : "qtadvanceddocking::@0830d1ee9bc51830e605",
+			"targetIndex" : 2,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"x86/bin/libqtadvanceddocking.dll"
+			],
+			"targetId" : "qtadvanceddocking::@0830d1ee9bc51830e605",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtadvanceddocking",
+			"exportName" : "adsTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "qtadvanceddocking::@0830d1ee9bc51830e605",
+					"index" : 2
+				}
+			],
+			"paths" : 
+			[
+				"QtAdvancedDocking/CMakeFiles/Export/lib/cmake/qtadvanceddocking/adsTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtadvanceddocking",
+			"paths" : 
+			[
+				"QtAdvancedDocking/qtadvanceddockingConfig.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtadvanceddocking",
+			"paths" : 
+			[
+				"build/release/mingw-qt-32/QtAdvancedDocking/qtadvanceddockingConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "QtAdvancedDocking",
+		"source" : "QtAdvancedDocking"
+	}
+}

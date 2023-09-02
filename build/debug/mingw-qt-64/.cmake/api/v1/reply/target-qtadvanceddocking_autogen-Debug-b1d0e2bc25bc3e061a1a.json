@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"QtAdvancedDocking/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "qtadvanceddocking_autogen::@0830d1ee9bc51830e605",
+	"isGeneratorProvided" : true,
+	"name" : "qtadvanceddocking_autogen",
+	"paths" : 
+	{
+		"build" : "QtAdvancedDocking",
+		"source" : "QtAdvancedDocking"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/debug/mingw-qt-64/QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/debug/mingw-qt-64/QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

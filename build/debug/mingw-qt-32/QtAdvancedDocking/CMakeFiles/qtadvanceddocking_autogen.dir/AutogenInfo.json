@@ -1,0 +1,368 @@
+{
+	"BUILD_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking/qtadvanceddocking_autogen",
+	"CMAKE_BINARY_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking",
+	"CMAKE_EXECUTABLE" : "D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/CMakeLists.txt",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseArguments.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseArguments.cmake",
+		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake",
+		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake",
+		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/BasicConfigVersion-SameMajorVersion.cmake.in",
+		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/ads.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/AutoHideDockContainer.h",
+			"Mu",
+			"EWIEGA46WW/moc_AutoHideDockContainer.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/AutoHideSideBar.h",
+			"Mu",
+			"EWIEGA46WW/moc_AutoHideSideBar.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/AutoHideTab.h",
+			"Mu",
+			"EWIEGA46WW/moc_AutoHideTab.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockAreaTabBar.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaTabBar.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockAreaTitleBar.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaTitleBar.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockAreaTitleBar_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaTitleBar_p.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockAreaWidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaWidget.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockComponentsFactory.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockComponentsFactory.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockContainerWidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockContainerWidget.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockFocusController.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockFocusController.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockManager.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockManager.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockOverlay.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockOverlay.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockSplitter.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockSplitter.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockWidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockWidget.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockWidgetTab.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockWidgetTab.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockingStateReader.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockingStateReader.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/ElidingLabel.h",
+			"Mu",
+			"EWIEGA46WW/moc_ElidingLabel.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/FloatingDockContainer.h",
+			"Mu",
+			"EWIEGA46WW/moc_FloatingDockContainer.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/FloatingDragPreview.h",
+			"Mu",
+			"EWIEGA46WW/moc_FloatingDragPreview.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/IconProvider.h",
+			"Mu",
+			"EWIEGA46WW/moc_IconProvider.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/PushButton.h",
+			"Mu",
+			"EWIEGA46WW/moc_PushButton.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/ResizeHandle.h",
+			"Mu",
+			"EWIEGA46WW/moc_ResizeHandle.cpp",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/ads_globals.h",
+			"Mu",
+			"EWIEGA46WW/moc_ads_globals.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking/qtadvanceddocking_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking/qtadvanceddocking_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ADS_SHARED_EXPORT",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"qtadvanceddocking_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking",
+		"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/include",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtCore",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/mkspecs/win32-g++",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtGui",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtANGLE",
+		"D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtWidgets",
+		"D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++",
+		"D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32",
+		"D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward",
+		"D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include",
+		"D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include-fixed",
+		"D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_32/i686-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/SoftwareTools/Qt/Qt5.14.2/Tools/mingw730_32/bin/c++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/SoftwareTools/Jetbrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking/qtadvanceddocking_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/SoftwareTools/Qt/Qt5.14.2/5.14.2/mingw73_32/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32/QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/AutoHideDockContainer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/AutoHideSideBar.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/AutoHideTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockAreaTabBar.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockAreaTitleBar.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockAreaWidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockComponentsFactory.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockContainerWidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockFocusController.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockManager.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockOverlay.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockSplitter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockWidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockWidgetTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/DockingStateReader.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/ElidingLabel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/FloatingDockContainer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/FloatingDragPreview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/IconProvider.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/PushButton.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/ResizeHandle.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/QtAdvancedDocking/ads_globals.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

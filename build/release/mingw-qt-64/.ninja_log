@@ -1,0 +1,107 @@
+# ninja log v5
+4848	8096	7153491833724739	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterial_autogen/mocs_compilation.cpp.obj	241deccf2f313b5a
+6338	7544	7153491828256292	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialstatetransition.cpp.obj	27dd050d4a1b7a74
+2	2429	7153692237765964	build.ninja	1617a9032f2a11ed
+1600	4848	7153491801291275	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/qtadvanceddocking_autogen/mocs_compilation.cpp.obj	4fd9d31bd29e0fd0
+23	66	0	QtMaterial/CMakeFiles/qtmaterial_autogen	2fa8e557e52f4357
+3320	5184	7153491804643828	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtabs.cpp.obj	c9372ca49d193308
+8601	10547	7153491858288310	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialiconbutton.cpp.obj	37a3666a6da29286
+1518	1594	7153491768727589	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtAdvancedDocking/qtadvanceddocking_autogen/EWIEGA46WW/qrc_ads.cpp	711eeac5b308d5c9
+29	68	0	QtAdvancedDocking/qtadvanceddocking_autogen/mocs_compilation.cpp	3a4960c441941640
+410	1816	7153583004846648	Project/CMakeFiles/VersaAssistant-3.8.1.dir/main.cpp.obj	966b43381564e86b
+4233	6508	7153491817899092	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtextfield.cpp.obj	cb1ec02a8ad7e10f
+1616	4155	7153491794338129	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockFocusController.cpp.obj	2f3b8625f6865cb6
+29	68	0	QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen	3a4960c441941640
+1594	4146	7153491794222557	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/AutoHideTab.cpp.obj	16d1beaaa5a83694
+29	68	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtAdvancedDocking/qtadvanceddocking_autogen/mocs_compilation.cpp	3a4960c441941640
+29	68	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtAdvancedDocking/CMakeFiles/qtadvanceddocking_autogen	3a4960c441941640
+1605	4233	7153491795075816	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/AutoHideDockContainer.cpp.obj	1599da4952c387f5
+1518	1594	7153491768727589	QtAdvancedDocking/qtadvanceddocking_autogen/EWIEGA46WW/qrc_ads.cpp	711eeac5b308d5c9
+8336	10473	7153491857437099	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialfab.cpp.obj	7fedc46b85bb18ef
+23	66	0	QtMaterial/qtmaterial_autogen/mocs_compilation.cpp	2fa8e557e52f4357
+1626	4131	7153491794127317	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockAreaTabBar.cpp.obj	43132b8508f66f66
+23	66	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtMaterial/CMakeFiles/qtmaterial_autogen	2fa8e557e52f4357
+6990	8892	7153491841704501	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialavatar.cpp.obj	7b3ff356dc9c48a7
+23	66	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtMaterial/qtmaterial_autogen/mocs_compilation.cpp	2fa8e557e52f4357
+2904	3320	7153491785943719	QtMaterial/qtmaterial_autogen/EWIEGA46WW/qrc_resources.cpp	7c45dd6cf8bcef37
+2904	3320	7153491785943719	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/QtMaterial/qtmaterial_autogen/EWIEGA46WW/qrc_resources.cpp	7c45dd6cf8bcef37
+1645	5162	7153491804420211	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockAreaWidget.cpp.obj	2a8e3c4e75fa1571
+4146	6338	7153491816125456	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialsnackbar.cpp.obj	6a799b8635868b39
+1621	3833	7153491791108323	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockComponentsFactory.cpp.obj	b21c9978e7f305aa
+8343	10126	7153491854048875	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialdialog_internal.cpp.obj	ac9aad923bf6a8e0
+10315	12115	7153491873950827	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialscrollbar_internal.cpp.obj	395e977f684c49f3
+6845	8875	7153491841542205	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialautocomplete_internal.cpp.obj	d2a96a92b57f8cfe
+6508	8355	7153491836337420	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialcheckbox.cpp.obj	942cc377c5b1ecfa
+4678	6680	7153491819607787	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtextfield_internal.cpp.obj	3d69db0fbb0f9507
+10247	12403	7153491876826191	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialslider.cpp.obj	f0910ab7d9324966
+3836	3902	7153491791840991	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtable.cpp.obj	b437266dc10d38ad
+16993	21399	7153491966803245	Project/CMakeFiles/VersaAssistant-3.8.1.dir/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_IconPark.cpp.obj	9e167709a2fc8db0
+1610	4270	7153491795486784	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/AutoHideSideBar.cpp.obj	43e8c981bb07dfa6
+64	1439	7153511814432346	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialappbar.cpp.obj	e718b8fa49b6cd7b
+1631	4677	7153491799537729	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockAreaTitleBar.cpp.obj	6211f015cdedbf60
+1663	4760	7153491800310271	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockWidget.cpp.obj	843135af3df07e99
+8875	8958	7153491842368400	QtMaterial/CMakeFiles/qtmaterial.dir/qtmateriallistitem.cpp.obj	daeecedd855cfeed
+3902	5964	7153491812421652	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtabs_internal.cpp.obj	99655f6d8f685017
+6013	8336	7153491836106378	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialtheme.cpp.obj	bf29871c716a15ea
+10854	14758	7153491900379195	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockManager.cpp.obj	8d95adb7564d9ee1
+4132	6012	7153491812927374	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialsnackbar_internal.cpp.obj	ac92d96b47a34bd6
+6253	7851	7153491831320761	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialstyle.cpp.obj	22afb5d85795af6e
+1636	6108	7153491813887619	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockContainerWidget.cpp.obj	c91848e6746dbb72
+8097	10247	7153491855285572	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialdrawer.cpp.obj	f23f97abe6a3d5f0
+4271	6253	7153491815346502	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtoggle.cpp.obj	3aca8d6750a0c8a9
+9033	9111	7153491843868219	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialpaper.cpp.obj	bd1d7a001cf7c5da
+4155	6382	7153491816560654	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialslider_internal.cpp.obj	8225ed02e7f1955d
+4760	6407	7153491816876709	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialoverlaywidget.cpp.obj	944aeae1bbde7e04
+5162	6844	7153491821255170	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialcheckable_internal.cpp.obj	39d9b98ffbb553d5
+8892	8965	7153491842453699	QtMaterial/CMakeFiles/qtmaterial.dir/qtmateriallist.cpp.obj	e6f6c9ecabf0922c
+6407	8330	7153491836116373	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialrippleoverlay.cpp.obj	f84458dd22596f1f
+5184	6989	7153491822681773	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialripple.cpp.obj	fd2017277c6ce639
+5964	8071	7153491833459682	QtMaterial/CMakeFiles/qtmaterial.dir/lib/qtmaterialcheckable.cpp.obj	e9d7538e0d3a9a1f
+6680	8296	7153491835609553	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialcircularprogress_internal.cpp.obj	413e22b7255c8717
+6383	8601	7153491838820263	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialautocomplete.cpp.obj	70d64f0036bfaa18
+7545	9574	7153491848534856	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialbadge.cpp.obj	c6135d0bcde7d2bb
+8966	9033	7153491843135604	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialmenu_internal.cpp.obj	249260c20707d08
+7851	9979	7153491852592791	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialcircularprogress.cpp.obj	d425c739fef2ab15
+8071	10139	7153491854084088	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialdialog.cpp.obj	d26854dc0a2ab12c
+8330	10315	7153491855941563	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialdrawer_internal.cpp.obj	a80c0d9dae9d404
+8355	10452	7153491857330886	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialflatbutton_internal.cpp.obj	274ec2944a247379
+8958	10623	7153491859033349	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialmenu.cpp.obj	d0f87c37d7657626
+8297	10854	7153491861349472	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialflatbutton.cpp.obj	9472aee2a89f3e14
+9111	11073	7153491863507433	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialprogress.cpp.obj	428d8e841f3cf92
+9574	11235	7153491865166750	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialprogress_internal.cpp.obj	6196c67d6541a82d
+10624	11845	7153491871263090	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockingStateReader.cpp.obj	52b3f1b906e2bfbf
+10126	11953	7153491872347689	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialraisedbutton.cpp.obj	498e00a5b5f33590
+10139	12053	7153491873322804	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialradiobutton.cpp.obj	f6eac2a34a283fc6
+16061	16531	7153491918061637	Project/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_IconPark.cpp	e5d15eeb0deec914
+9979	12101	7153491873790019	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialscrollbar.cpp.obj	f7921a41628a5d3d
+10473	12483	7153491877624096	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterialtoggle_internal.cpp.obj	f10482d96ada7d70
+10547	12541	7153491878200839	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockSplitter.cpp.obj	d2e929d8d0d01f05
+12483	12731	7153491880091671	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/qtadvanceddocking_autogen/EWIEGA46WW/qrc_ads.cpp.obj	7a67fac903ad9b8a
+11235	13537	7153491888185031	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockWidgetTab.cpp.obj	aeb74596cf3d88c
+11845	13686	7153491889673036	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/IconProvider.cpp.obj	7c9bfd56ab96cbe
+11953	13936	7153491892181612	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/PushButton.cpp.obj	bfd91125f01b54df
+12053	13960	7153491892421701	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/ElidingLabel.cpp.obj	6928c15616f40fdd
+12101	14132	7153491894137919	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/FloatingDragPreview.cpp.obj	db90221831b32798
+10452	14138	7153491894200618	QtMaterial/CMakeFiles/qtmaterial.dir/qtmaterial_autogen/EWIEGA46WW/qrc_resources.cpp.obj	a994a9d247b64626
+12404	14272	7153491895541662	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/ads_globals.cpp.obj	cdb1740dd15559b6
+11073	14372	7153491896526428	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/DockOverlay.cpp.obj	743dc24a8bbf3746
+12541	14470	7153491897519929	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/ResizeHandle.cpp.obj	ece4e03b62e48948
+1439	1721	7153511817222266	x64/bin/libqtmaterial.dll	d7ed63a96412c958
+1439	1721	7153511817222266	x64/lib/libqtmaterial.dll.a	d7ed63a96412c958
+12115	15395	7153491906784656	QtAdvancedDocking/CMakeFiles/qtadvanceddocking.dir/FloatingDockContainer.cpp.obj	1c6fb6ed09713c4f
+15397	15648	7153491909243923	x64/bin/libqtadvanceddocking.dll	15f10e1f24041ff2
+15397	15648	7153491909243923	x64/lib/libqtadvanceddocking.dll.a	15f10e1f24041ff2
+16068	16955	7153491922293174	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_MingCute.cpp	5dec8dc2da9adc30
+68	406	0	Project/CMakeFiles/VersaAssistant-3.8.1_autogen	485080c498e66974
+68	406	0	Project/VersaAssistant-3.8.1_autogen/mocs_compilation.cpp	485080c498e66974
+68	406	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/CMakeFiles/VersaAssistant-3.8.1_autogen	485080c498e66974
+68	406	0	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/VersaAssistant-3.8.1_autogen/mocs_compilation.cpp	485080c498e66974
+16061	16531	7153491918061637	E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/release/mingw-qt-64/Project/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_IconPark.cpp	e5d15eeb0deec914
+16068	16955	7153491922293174	Project/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_MingCute.cpp	5dec8dc2da9adc30
+16968	18449	7153491937292587	Project/CMakeFiles/VersaAssistant-3.8.1.dir/imagesvgload.cpp.obj	419550f84ad68396
+16963	18619	7153491939000093	Project/CMakeFiles/VersaAssistant-3.8.1.dir/vpushbutton.cpp.obj	5d89b86d7b0f4095
+406	1920	7153583005900175	Project/CMakeFiles/VersaAssistant-3.8.1.dir/VersaAssistant-3.8.1_autogen/mocs_compilation.cpp.obj	97d1e76c693b6bb0
+415	2007	7153583006766730	Project/CMakeFiles/VersaAssistant-3.8.1.dir/widget.cpp.obj	95dd97e1f68e7071
+16979	18937	7153491942200702	Project/CMakeFiles/VersaAssistant-3.8.1.dir/vtitlebar.cpp.obj	b767202e18143788
+16985	34380	7153492096573012	Project/CMakeFiles/VersaAssistant-3.8.1.dir/VersaAssistant-3.8.1_autogen/ZJNQV2ICFI/qrc_MingCute.cpp.obj	cfc5cd0b4e2e04a3
+2007	2393	7153583010579571	x64/bin/VersaAssistant-3.8.1.exe	f73444eab5c99132

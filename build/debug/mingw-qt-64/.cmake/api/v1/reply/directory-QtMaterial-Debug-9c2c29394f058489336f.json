@@ -1,0 +1,207 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"QtMaterial/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 116,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 130,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 138,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 144,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 149,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "headers",
+			"destination" : "include/qtmaterial",
+			"paths" : 
+			[
+				"QtMaterial/lib/qtmaterialcheckable.h",
+				"QtMaterial/lib/qtmaterialcheckable_internal.h",
+				"QtMaterial/lib/qtmaterialcheckable_p.h",
+				"QtMaterial/lib/qtmaterialoverlaywidget.h",
+				"QtMaterial/lib/qtmaterialripple.h",
+				"QtMaterial/lib/qtmaterialrippleoverlay.h",
+				"QtMaterial/lib/qtmaterialstatetransition.h",
+				"QtMaterial/lib/qtmaterialstatetransitionevent.h",
+				"QtMaterial/lib/qtmaterialstyle.h",
+				"QtMaterial/lib/qtmaterialstyle_p.h",
+				"QtMaterial/lib/qtmaterialtheme.h",
+				"QtMaterial/lib/qtmaterialtheme_p.h",
+				"QtMaterial/qtmaterialappbar.h",
+				"QtMaterial/qtmaterialappbar_p.h",
+				"QtMaterial/qtmaterialautocomplete.h",
+				"QtMaterial/qtmaterialautocomplete_internal.h",
+				"QtMaterial/qtmaterialautocomplete_p.h",
+				"QtMaterial/qtmaterialavatar.h",
+				"QtMaterial/qtmaterialavatar_p.h",
+				"QtMaterial/qtmaterialbadge.h",
+				"QtMaterial/qtmaterialbadge_p.h",
+				"QtMaterial/qtmaterialcheckbox.h",
+				"QtMaterial/qtmaterialcheckbox_p.h",
+				"QtMaterial/qtmaterialcircularprogress.h",
+				"QtMaterial/qtmaterialcircularprogress_internal.h",
+				"QtMaterial/qtmaterialcircularprogress_p.h",
+				"QtMaterial/qtmaterialdialog.h",
+				"QtMaterial/qtmaterialdialog_internal.h",
+				"QtMaterial/qtmaterialdialog_p.h",
+				"QtMaterial/qtmaterialdrawer.h",
+				"QtMaterial/qtmaterialdrawer_internal.h",
+				"QtMaterial/qtmaterialdrawer_p.h",
+				"QtMaterial/qtmaterialfab.h",
+				"QtMaterial/qtmaterialfab_p.h",
+				"QtMaterial/qtmaterialflatbutton.h",
+				"QtMaterial/qtmaterialflatbutton_internal.h",
+				"QtMaterial/qtmaterialflatbutton_p.h",
+				"QtMaterial/qtmaterialiconbutton.h",
+				"QtMaterial/qtmaterialiconbutton_p.h",
+				"QtMaterial/qtmateriallist.h",
+				"QtMaterial/qtmateriallist_p.h",
+				"QtMaterial/qtmateriallistitem.h",
+				"QtMaterial/qtmateriallistitem_p.h",
+				"QtMaterial/qtmaterialmenu.h",
+				"QtMaterial/qtmaterialmenu_internal.h",
+				"QtMaterial/qtmaterialmenu_p.h",
+				"QtMaterial/qtmaterialpaper.h",
+				"QtMaterial/qtmaterialpaper_p.h",
+				"QtMaterial/qtmaterialprogress.h",
+				"QtMaterial/qtmaterialprogress_internal.h",
+				"QtMaterial/qtmaterialprogress_p.h",
+				"QtMaterial/qtmaterialradiobutton.h",
+				"QtMaterial/qtmaterialradiobutton_p.h",
+				"QtMaterial/qtmaterialraisedbutton.h",
+				"QtMaterial/qtmaterialraisedbutton_p.h",
+				"QtMaterial/qtmaterialscrollbar.h",
+				"QtMaterial/qtmaterialscrollbar_internal.h",
+				"QtMaterial/qtmaterialscrollbar_p.h",
+				"QtMaterial/qtmaterialslider.h",
+				"QtMaterial/qtmaterialslider_internal.h",
+				"QtMaterial/qtmaterialslider_p.h",
+				"QtMaterial/qtmaterialsnackbar.h",
+				"QtMaterial/qtmaterialsnackbar_internal.h",
+				"QtMaterial/qtmaterialsnackbar_p.h",
+				"QtMaterial/qtmaterialtable.h",
+				"QtMaterial/qtmaterialtable_p.h",
+				"QtMaterial/qtmaterialtabs.h",
+				"QtMaterial/qtmaterialtabs_internal.h",
+				"QtMaterial/qtmaterialtabs_p.h",
+				"QtMaterial/qtmaterialtextfield.h",
+				"QtMaterial/qtmaterialtextfield_internal.h",
+				"QtMaterial/qtmaterialtextfield_p.h",
+				"QtMaterial/qtmaterialtoggle.h",
+				"QtMaterial/qtmaterialtoggle_internal.h",
+				"QtMaterial/qtmaterialtoggle_p.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"x64/lib/libqtmaterial.dll.a"
+			],
+			"targetId" : "qtmaterial::@dad88a13932beb17c5ce",
+			"targetIndex" : 4,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"x64/bin/libqtmaterial.dll"
+			],
+			"targetId" : "qtmaterial::@dad88a13932beb17c5ce",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtmaterial",
+			"exportName" : "materialTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "qtmaterial::@dad88a13932beb17c5ce",
+					"index" : 4
+				}
+			],
+			"paths" : 
+			[
+				"QtMaterial/CMakeFiles/Export/lib/cmake/qtmaterial/materialTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtmaterial",
+			"paths" : 
+			[
+				{
+					"from" : "QtMaterial/qtMaterialConfig.cmake",
+					"to" : "qtmaterialConfig.cmake"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtmaterial",
+			"paths" : 
+			[
+				"build/debug/mingw-qt-64/QtMaterial/qtmaterialConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "QtMaterial",
+		"source" : "QtMaterial"
+	}
+}

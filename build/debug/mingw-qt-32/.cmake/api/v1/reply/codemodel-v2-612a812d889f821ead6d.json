@@ -1,0 +1,189 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "QtMaterial",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-QtMaterial-Debug-815beb104b759c82666a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "QtMaterial",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "QtAdvancedDocking",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-QtAdvancedDocking-Debug-897a81034a68a571edf9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "QtAdvancedDocking",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "Project",
+					"jsonFile" : "directory-Project-Debug-8c0035df2fdd8f09a232.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VersaDebugAssistantProject"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "QtMaterial",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "QtAdvancedDockingSystem",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "VersaAssistant",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "VersaAssistant-3.8.1::@f0d2a6f44114b7dd8962",
+					"jsonFile" : "target-VersaAssistant-3.8.1-Debug-2ff4c5ebd0086a995bca.json",
+					"name" : "VersaAssistant-3.8.1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "VersaAssistant-3.8.1_autogen::@f0d2a6f44114b7dd8962",
+					"jsonFile" : "target-VersaAssistant-3.8.1_autogen-Debug-a7a2bdd81c3e6610736f.json",
+					"name" : "VersaAssistant-3.8.1_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qtadvanceddocking::@0830d1ee9bc51830e605",
+					"jsonFile" : "target-qtadvanceddocking-Debug-2de1f46af2cb8e39ef0a.json",
+					"name" : "qtadvanceddocking",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qtadvanceddocking_autogen::@0830d1ee9bc51830e605",
+					"jsonFile" : "target-qtadvanceddocking_autogen-Debug-ec9ab9a3c2e27db0a3c1.json",
+					"name" : "qtadvanceddocking_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qtmaterial::@dad88a13932beb17c5ce",
+					"jsonFile" : "target-qtmaterial-Debug-52131a60ae7ab90c6f43.json",
+					"name" : "qtmaterial",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qtmaterial_autogen::@dad88a13932beb17c5ce",
+					"jsonFile" : "target-qtmaterial_autogen-Debug-0ded302c5d9a0d1880d3.json",
+					"name" : "qtmaterial_autogen",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant/build/debug/mingw-qt-32",
+		"source" : "E:/projects/VersaDebug Assistant/Cmake/VersaDebugAssistant"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
